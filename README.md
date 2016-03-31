@@ -1,2 +1,1 @@
-# resources
-Directory of biohacking guides, communities, and projects.
+Visit and contribute to the Forever Alpha [resources wiki](https://github.com/foreveralpha/resources/wiki) listing biohacking guides, communities, and projects.
